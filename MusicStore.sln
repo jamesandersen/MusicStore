@@ -12,10 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B7B176B6-8D4D-4EF1-BBD2-DDA650C78FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore", "src\MvcMusicStore\MvcMusicStore.csproj", "{25CE8290-EF24-4818-B009-68DC903163D3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore.Spa", "src\MvcMusicStore.Spa\MvcMusicStore.Spa.csproj", "{408AC102-7FB1-4ADD-A16A-9AACBAFFC2F7}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{363D2681-31A6-48C9-90BB-9ACFF4A41F06}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "E2ETests", "test\E2ETests\E2ETests.kproj", "{A319ACCE-060B-4385-9534-9F2202F6180E}"
